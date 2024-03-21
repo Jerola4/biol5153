@@ -1,0 +1,3 @@
+#Practica git
+print("Hello fucking world")
+print("Hey there")
