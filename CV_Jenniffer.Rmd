@@ -1,0 +1,68 @@
+---
+title: "CV_Jenniffer Roa Lozano"
+author: "Jenniffer Roa Lozano"
+date: "2024-03-10"
+output: html_document
+---
+
+**Location:** Colombia Valle del Cauca  
+**Phone:** +1 479 3329955  
+**Email:** jr130@uark.edu  
+
+## Profile
+
+Biologist with a master's degree in Biotechnology and close to 10 years of research experience in the industry and academic collaborations between universities focusing on traditional microbial techniques and molecular biology techniques. This includes profiling of microbial communities using DNA sequencing metagenomics and sequence data assembly and analysis. Strong organizational skills and a thirst for knowledge to carry out multiple simultaneous projects. Equally effective working independently as well as in team environments; capable of building relationships and collaborating with cross-functional teams. Good communication skills in English, Portuguese, and native proficiency in Spanish.
+
+## Summary of Skills
+
+- **Molecular Biology:** DNA extraction, RNA extraction, plasmid extraction, PCR, cloning, PCR gel electrophoresis, primers design, multiplex PCR, reverse transcription PCR (RT-PCR), ddPCR, touchdown PCR, cell transformation with fluorescents genes, Soil DNA sequencing (16S rRNA gene), Metagenomic - Barcode.
+
+- **Microbiology:** Isolation, Identification and biochemical and molecular characterization of Proteobacteria (alpha, beta, and Gamma), culture medium preparation, conservation, cell culture, Transcriptomic and phylogenetic analysis of bacteria, cell characterization of gen nifH in biological fixing bacteria and nitrification gen AMO.
+
+- **Phytochemistry:** Quantification of secondary metabolites by high-performance liquid chromatography (HPLC) and Gas chromatography (GC) – basic training in these techniques.
+
+- **Computational:** Microsoft Windows, Word, Excel, PowerPoint, Geneious, Mega, Bioedit, Muscle, Shamam, NCBI, and R.
+
+## Education
+
+**UNIVERSITY OF ARKANSAS, DEPARTMENT OF BIOLOGICAL SCIENCES Fayetteville, AR**  
+Statistic and Analitics Master student, Aug 2023 – Currently  
+Proposal: Phylogenetic comparative methods.
+
+**UNIVERSIDAD NACIONAL (UNAL), DEPARTMENT OF BIOLOGICAL SCIENCES, Palmira, Colombia**  
+Honored Master of Science (MSc) in Biotechnology, 2017  
+Thesis: Biochemical and molecular characterization of the bacterial endophytes from native Sugarcane varieties.
+
+**UNIVERSIDAD DEL VALLE (UV), DEPARTMENT OF BIOLOGICAL SCIENCES, Cali, Colombia**  
+Honored Bachelor of Science (BSc) in Biology, 2012  
+Thesis: Microecosystems: the key to understanding the systemic relationships between microscopy and macroscopy organism.
+
+## Research Experience
+
+**UNIVERSITY OF ARKANSAS, DEPARTMENT OF PLANT PATHOLOGY, Fayetteville, AR**  
+Visiting scholar with Dr. Alejandro Rojas, Oct 2021 – Apr 2022
+
+**COLOMBIAN SUGARCANE RESEARCH CENTER (CENICAÑA), Florida, CO**  
+Research Assistant with Dr. Fernando Muñoz Arboleda, Jan 2011 – 2021
+
+**UNIVERSITY OF MINNESOTA, DEPARTMENT OF HORTICULTURE, St Paul, MN**  
+Volunteer Researcher with Dr. Julie Glossman, Aug 2019 – Dec 2019
+
+**UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL- UFRGS, DEPARTMENT OF BIOSCIENCE, Porto Alegre, BR**  
+Volunteer Researcher with Dr. Luciane Passaglia, Jun 2017 – Dec 2017
+
+**UNIVERSIDADE ESTADUAL DE CAMPINAS- UNICAMP, DEPARTMENT OF PLANTS GENETIC AND BREEDING, Sao Paulo, BR**  
+Visiting Researcher with Paulo Arruda, Sept 2017
+
+## Publications
+
+- Jenniffer Roa, Marcela Cadavid, Fernando Muñoz, Héctor A. Chica, and Carlos A. Ángel. "Isolation and preliminary biochemical characterization of nitrogen-fixing bacteria belonging to three genera obtained from sugarcane in Colombia." Society of Sugarcane Technologist. Vol. 29. 1315-1324. 2016.
+
+- Jenniffer Roa Lozano; Melissa Andrea Espinosa; Marcela Cadavid; Fernando Muñoz Héctor Alberto Chica y Carlos Ariel Ángel Calle. "Quantification of biological nitrogen-fixation in isolates of three bacterial genera associated with sugarcane-Colombia." XI congreso Atalac- Tecnicaña. 2018.
+
+- Jenniffer Roa Lozano. 2017. "Biochemical and molecular characterization of nitrogen-fixing bacteria associated with sugarcane varieties (Tesis
+
+
+
+
+
