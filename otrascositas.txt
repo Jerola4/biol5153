@@ -1,3 +1,0 @@
-importante piensa bien que estas haciendo
-añadir otra linea para ver que pasa....
-De nuevo una nueva linea para añadir esta vez quiero ver git diff
